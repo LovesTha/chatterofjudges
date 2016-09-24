@@ -27,3 +27,18 @@ github_username:  jekyll
 # Build settings
 markdown: kramdown
 theme: minima
+
+#podcast settings
+podcast_url: http://chatterofjudges.cerberos.id.au/
+podcast_album_art: /podcast/Whaddya-Know-Joe-Album-Art.png
+podcast_title: Chatter of Judges
+podcast_owner: Gareth Pye
+podcast_email: gareth@cerberos.id.au
+podcast_category: Gaming
+podcast_subcategory_one: Magic: The Gathering
+podcast_subcategory_two: MtG Judging
+podcast_explicit: "no"
+podcast_author: Gareth Pye
+podcast_description: A humble attempt to create some video resources for Judges.
+podcast_summary: Discussion of developments in the MtG Judging community, new sets and how all this affects judges and players in Australia and New Zealand.
+podcast_subtitle: Live Recorded and minimally edited.
