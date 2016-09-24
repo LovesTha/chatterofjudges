@@ -13,16 +13,17 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Your awesome title
-email: your-email@domain.com
+title: Chatter of Judges
+email: gareth@cerberos.id.au
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Welcome to Chatter of Judges. A humble attempt to create some video resources
+  for Judges. As I'm an Australian it is going to have a bit of a bend towards
+  how judge things happen in this corner of the globe. It also means the live
+  recording are going to happen in time slots conducive to my timezone.
+
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://example.com" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+url: "http://chatterofjudges.cerberos.id.au" # the base hostname & protocol for your site
+twitter_username: ChatterOfJudges
 
 # Build settings
 markdown: kramdown
@@ -30,12 +31,12 @@ theme: minima
 
 #podcast settings
 podcast_url: http://chatterofjudges.cerberos.id.au/
-podcast_album_art: /podcast/Whaddya-Know-Joe-Album-Art.png
+podcast_album_art: /podcast/Chatter-Of-Judges-Album-Art.png
 podcast_title: Chatter of Judges
 podcast_owner: Gareth Pye
 podcast_email: gareth@cerberos.id.au
 podcast_category: Gaming
-podcast_subcategory_one: Magic: The Gathering
+podcast_subcategory_one: "Magic: The Gathering"
 podcast_subcategory_two: MtG Judging
 podcast_explicit: "no"
 podcast_author: Gareth Pye
