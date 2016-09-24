@@ -31,7 +31,7 @@ theme: minima
 
 #podcast settings
 podcast_url: http://chatterofjudges.cerberos.id.au/
-podcast_album_art: /podcast/Chatter-Of-Judges-Album-Art.png
+podcast_album_art: /podcast/Chatter-Of-Judges-Album-Art.jpg
 podcast_title: Chatter of Judges
 podcast_owner: Gareth Pye
 podcast_email: gareth@cerberos.id.au
@@ -42,4 +42,4 @@ podcast_explicit: "no"
 podcast_author: Gareth Pye
 podcast_description: A humble attempt to create some video resources for Judges.
 podcast_summary: Discussion of developments in the MtG Judging community, new sets and how all this affects judges and players in Australia and New Zealand.
-podcast_subtitle: Live Recorded and minimally edited.
+podcast_subtitle: Live recorded and minimally edited.
