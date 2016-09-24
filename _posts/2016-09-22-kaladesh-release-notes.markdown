@@ -9,7 +9,7 @@ tags:
 - Kaladesh
 permalink: /13/
 image: /podcast/Podcast-13.jpg
-podcast_link: https://archive.org/download/CoJ13KaladeshReleaseNotesRemastered_201609/CoJ%20%2313%20-%20Kaladesh%20Release%20Notes%20-%20Remastered.mp3
+podcast_link: "https://archive.org/download/CoJ13KaladeshReleaseNotesRemastered_20160924_0752/CoJ_13_-_Kaladesh_Release_Notes_-_Remastered.mp3"
 podcast_file_size: 31 MB
 podcast_duration: "41:19"
 podcast_length: 13654375
