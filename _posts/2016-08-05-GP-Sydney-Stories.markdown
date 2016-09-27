@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Chatter of Judges #13 - Kaladesh Release Notes"
-date:   2016-09-22
+title:  "Chatter of Judges #12 - GP Sydney Stories and 2017 GP Schedule"
+date:   2016-08-05
 categories: podcast
 tags:
 - "Magic: The Gathering"
