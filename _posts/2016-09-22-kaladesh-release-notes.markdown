@@ -17,11 +17,11 @@ podcast_length: 13654375
 
 Welcome to the new format. Blab.im has died so now we are using appear.in with YouTube Live to produce this. One upside is that it means I have a local copy of the session to remaster and make prettier. This is it.
 
-1m: Recognitions:
-    Thomas Wood nominates Jayson Litton
+1m: Recognitions:  
+    Thomas Wood nominates Jayson Litton  
     Morgan Meeham-Lam nominates Jayden Pickett
 
-https://magic.wizards.com/en/articles/archive/feature/kaladesh-release-notes-2016-09-16
+[Release Notes](https://magic.wizards.com/en/articles/archive/feature/kaladesh-release-notes-2016-09-16)
 
 6m: Masterpiece Series  
 12m: Energy  
@@ -32,4 +32,4 @@ https://magic.wizards.com/en/articles/archive/feature/kaladesh-release-notes-201
 32m: Fast Lands  
 35m: Story Spotlight Cards  
 38m: Favourite cards  
-   https://deckbox.org/sets/1501887
+[Gareth's Decklist](https://deckbox.org/sets/1501887)
