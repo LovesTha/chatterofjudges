@@ -9,7 +9,7 @@ tags:
 - Eldritch Moon
 permalink: /11/
 image: /podcast/Podcast-11.jpg
-podcast_link: "https://archive.org/download/gareth_cerberos_11/11.mp3"
+podcast_link: "http://bit.ly/CoJ11-2dlYFze"
 podcast_file_size: 98 MB
 podcast_duration: "42:24"
 podcast_length: 101800468

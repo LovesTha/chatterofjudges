@@ -10,7 +10,7 @@ tags:
 - Grand Prix
 permalink: /12/
 image: /podcast/Podcast-12.jpg
-podcast_link: "https://archive.org/download/ChatterOfJudges12GPSydneyStoriesAndGPSchedule/Chatter_of_Judges_12_-_GP_Sydney_Stories_and_GP_Schedule.mp3"
+podcast_link: "http://bit.ly/CoJ12-2damooh"
 podcast_file_size: 13 MB
 podcast_duration: "22:26"
 podcast_length: 13951429
