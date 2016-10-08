@@ -14,6 +14,7 @@ podcast_link: "https://archive.org/download/ChatterOfJudges12GPSydneyStoriesAndG
 podcast_file_size: 13 MB
 podcast_duration: "22:26"
 podcast_length: 13951429
+youtube_id: "HWGAoC17GO8"
 ---
 
 Just a quick episode this time, and all by my self. (at least on the video, there were some people in the chat helping out.) First I discuss GP food then talk about the sheet of lands method for organising ODE's (spoiler: I love it).

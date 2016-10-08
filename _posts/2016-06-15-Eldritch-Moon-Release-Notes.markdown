@@ -13,6 +13,7 @@ podcast_link: "https://archive.org/download/gareth_cerberos_11/11.mp3"
 podcast_file_size: 98 MB
 podcast_duration: "42:24"
 podcast_length: 101800468
+youtube_id: "uWnsLa_XIsM"
 ---
 
 Matthew Miles-Watson joined me to discuss the release notes for Eldritch Moon.

@@ -13,6 +13,7 @@ podcast_link: "https://archive.org/download/CoJ13KaladeshReleaseNotesRemastered_
 podcast_file_size: 31 MB
 podcast_duration: "41:19"
 podcast_length: 31954837
+youtube_id: "8tEaY6YuMFg"
 ---
 
 Welcome to the new format. Blab.im has died so now we are using appear.in with YouTube Live to produce this. One upside is that it means I have a local copy of the session to remaster and make prettier. This is it.

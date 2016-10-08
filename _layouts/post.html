@@ -1,0 +1,35 @@
+---
+layout: default
+---
+<article class="post" itemscope itemtype="http://schema.org/BlogPosting">
+
+  <header class="post-header">
+    {% if page.image %}
+      <img src="{{ page.image }}" alt="{{ page.title | excape }}" />
+    {% else %}
+    <h1 class="post-title" itemprop="name headline">{{ page.title | escape }}</h1>
+    {% endif %}
+    <p class="post-meta"><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%b %-d, %Y" }}</time>{% if page.author %} • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>{% endif %}</p>
+  </header>
+
+  <div class="post-content" itemprop="articleBody">
+
+    {% if page.youtube_id %}
+      <iframe width="740" height="417" src="https://www.youtube.com/embed/{{ page.youtube_id }}?rel=0" frameborder="0" allowfullscreen></iframe>
+    {% endif %}
+
+    {{ content }}
+
+    {% if page.podcast_link %}
+    <h2> Listen: </h2>
+    <audio controls style="width: 740px;">
+      <source src="{{ page.podcast_link }}" type="audio/mpeg">
+      Your browser does not support the audio element.
+    </audio>
+    {% endif %}
+  </div>
+
+  {% if site.disqus.shortname %}
+    {% include disqus_comments.html %}
+  {% endif %}
+</article>
