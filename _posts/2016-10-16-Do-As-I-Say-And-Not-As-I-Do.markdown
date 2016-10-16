@@ -16,7 +16,7 @@ podcast_length: 19242699
 youtube_id: "2SbGdJh5S4A"
 ---
 
-Morgan Meehan-Lam from Hobart brings us a presentation on the thigns she has done badly at events, with gorgeous illustrations. It's a great watch, you might really want to checkout the youtube video if you can. But if you can only listen, it's still a great episode.
+Morgan Meehan-Lam from Hobart brings us a presentation on the things she has done badly at events, with gorgeous illustrations. It's a great watch, you might really want to checkout the youtube video if you can. But if you can only listen, it's still a great episode.
 
 0m: Welcome & Introduce Morgan
 1m: Recognitions
