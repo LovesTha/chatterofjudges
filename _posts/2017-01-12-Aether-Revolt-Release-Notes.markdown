@@ -9,7 +9,7 @@ tags:
 - Aether Revolt
 permalink: /15/
 image: /podcast/Podcast-15.jpg
-podcast_link: "http://bit.ly/CoJ15-2jaPSGj"
+podcast_link: "http://bit.ly/Coj15-2jaPSGj"
 podcast_file_size: 21 MB
 podcast_duration: "32:53"
 podcast_length: 21505582
