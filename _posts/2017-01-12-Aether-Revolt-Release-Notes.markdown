@@ -13,7 +13,7 @@ podcast_link: "http://bit.ly/Coj15-2jaPSGj"
 podcast_file_size: 21 MB
 podcast_duration: "32:53"
 podcast_length: 21505582
-youtube_id: "9wwijQh_L1w"
+youtube_id: "xLlZO3n9w6M"
 ---
 
 We will be discussing and explaining the mechanics of the new set and a few iconic cards.
