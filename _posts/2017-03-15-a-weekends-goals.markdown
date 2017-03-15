@@ -22,7 +22,7 @@ No guest today, and I’ll probably manage to be under 5 minutes.
 
 I want to issue you a small challenge. It’s good to share goals as when we share goals we feel accountable to each other, helping us follow through and do that thing we want to do.
 
-Setting goals and following through on them is pretty obviously the best way to become a better judge, and that is goal number one of our quaint self improvement cult.
+Setting goals and following through on them is pretty obviously the best way to become a better judge, and that is goal number one of our quaint self-improvement cult.
 
 Everyone who replies below, on Facebook or Youtube, will get me prompting them after the weekend (or after the event you mention) on how they went with their goal. If you want to be private you can withhold what your goal is, but be honest with yourself and do spend some time thinking about your goal.
 
