@@ -9,11 +9,11 @@ tags:
 - Goals
 permalink: /16/
 image: /podcast/Podcast-16.jpg
-podcast_link: "http://bit.ly/Coj16-2mrwovy"
-podcast_file_size: 4.1 MB
-podcast_duration: "3:20"
-podcast_length: 4093150
-youtube_id: "-Ms0doXSMu0"
+podcast_link: "http://bit.ly/Coj16-fixed"
+podcast_file_size: 3.1 MB
+podcast_duration: "1:40"
+podcast_length: 3073222
+youtube_id: "m6pAKWInpoU"
 ---
 
 Welcome to a little inbetweener episode of Chatter of Judges.
